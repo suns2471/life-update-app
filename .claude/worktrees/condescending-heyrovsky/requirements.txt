@@ -1,0 +1,6 @@
+streamlit>=1.50,<2
+pandas>=2.3,<3
+google-generativeai>=0.8,<1
+python-dotenv>=1.2,<2
+gspread>=6.2,<7
+google-auth>=2.0,<3
